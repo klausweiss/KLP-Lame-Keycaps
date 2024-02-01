@@ -18,6 +18,10 @@ Each of them was split to the top of the keycap and a common [stem](https://gith
 Printing the original model in one part is risky, as if you don't print the stem sideways, it can break off and stay in the switch.
 Thanks to the way the models were split you can print the stem sideways, which will greatly improve the sturdiness of it.
 
+See the picture below for assembled prints of these models. Note the artifacts you should expect when FDM printing.
+
+![Keycaps printed and assembled](./Assets/fdm.JPG)
+
 
 ## How to print and assemble the keycaps
 
@@ -43,4 +47,5 @@ When both stem and top are printed and supports removed from underneath the keyc
 If you use too little, the two are likely to break apart after a couple of days of use.
 Luckily even if that happens, you take the intact stem out of the switch and glue to the top of the key again (but this time using more glue).
 There is a pit in the top of the keycap where you insert the stem.
+
 
