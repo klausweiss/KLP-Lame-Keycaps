@@ -12,7 +12,7 @@ The main repository was forked to provide STLs of Choc versions which are easier
 
 New models are to be found in [`STL/Choc/fdm/stl`](https://github.com/klausweiss/KLP-Lame-Keycaps/tree/master/STL/Choc/fdm/stl).
 
-At the time of forking there were 8 distinct Choc keycap models.
+At the time of forking there were 7 distinct Choc keycap models.
 Each of them was split to the top of the keycap and a common [stem](https://github.com/klausweiss/KLP-Lame-Keycaps/blob/master/STL/Choc/fdm/stl/legs.stl).
 
 Printing the original model in one part is risky, as if you don't print the stem sideways, it can break off and stay in the switch.
