@@ -44,7 +44,8 @@ As far as printing and supports go, here's what I recommend:
     - 0.2mm interface spacing
 
 When both stem and top are printed and supports removed from underneath the keycap top, glue them together with a fair amount of Super Glue.
-If you use too little, the two are likely to break apart after a couple of days of use.
+Then leave it to dry for at least 24h, preferably 48h, otherwise it might not bond very well.
+If you use too little glue, the two are likely to break apart after a couple of days of use.
 Luckily even if that happens, you take the intact stem out of the switch and glue to the top of the key again (but this time using more glue).
 There is a pit in the top of the keycap where you insert the stem.
 
